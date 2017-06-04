@@ -1,2 +1,3 @@
-# Machine-Learning-CSMM102x-John-Paisley-Columbia-University
-Machine Learning CSMM102x John Paisley Columbia University
+## Machine-Learning-John-Paisley-Columbia-University-EdX
+
+Refer to [website](https://adaickalavan.github.io/portfolio/machine_learning_john_paisley/) for information.
